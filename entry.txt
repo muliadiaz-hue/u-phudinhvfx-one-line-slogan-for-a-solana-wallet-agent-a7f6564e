@@ -1,0 +1,1 @@
+Tailored for Solana: your wallet agent measures twice and signs once.
